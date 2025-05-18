@@ -1,0 +1,3 @@
+2025-05-17 17:04:01|INFO    |root                            |Scheduler will use this timezone: America/Phoenix|
+2025-05-17 17:04:02|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://***.***.***.***:6767|
+2025-05-17 17:04:02|INFO    |waitress                        |BAZARR is started and waiting for requests on: http://[::]:6767|
